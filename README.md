@@ -1,4 +1,4 @@
-This project is to create three tier web application (HA Proxy/load balancer, WebServer and Database)
+This project is to create Private Cloud SaaS: Three Tier web application (HA Proxy/load balancer, WebServer and Database)
 
 After speaking to management in the software engineering release, database administrator, and Information Technology teams, I learn the business requirements are to provide a self-service, three tier web application using The E-Commerce Company's standards. In order to provide business continuity and performance scalability past the Private Cloud Web Application Infrastructure Project, multiple infrastructure providers are required for the web tier.
 
